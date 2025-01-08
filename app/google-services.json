@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464860949068",
+    "project_id": "travelguide-c86a6",
+    "storage_bucket": "travelguide-c86a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464860949068:android:f7839b7b3e2ece769462e9",
+        "android_client_info": {
+          "package_name": "com.example.travelguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuG4xKFsTnCyFlFXKK8ouHOXIIoz6dQOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
